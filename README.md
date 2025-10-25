@@ -1,3 +1,3 @@
-Unit Conversion App
-Flutter/Dart
-Android Studio
+# Flutter Unit Conversion App
+Language used: Dart
+Platform: Android Studio
